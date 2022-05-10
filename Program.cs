@@ -21,7 +21,7 @@ namespace Jokenpo
             int tesoura = 3;
 
             string jogar = "SIM";
-            while (jogar == "SIM")
+            while (jogar == "SIM" || jogar == "s" || jogar == "sim")
             {
                 Console.WriteLine();
                 Console.WriteLine("Qual a sua escolha? ");
@@ -61,11 +61,6 @@ namespace Jokenpo
                     Console.WriteLine();
                     Console.WriteLine("Você escolheu Tesoura");
                 }
-                else
-                {
-                    Console.WriteLine();
-                    Console.WriteLine("Opção inválida");
-                }
 
 
                 if (1 <= escolha || escolha <= 3 && 1 <= computador || computador <= 3)
@@ -75,8 +70,18 @@ namespace Jokenpo
                         Console.WriteLine();
                         Console.WriteLine("EMPATE");
                     }
+                    else if (escolha > 3 || escolha < 1)
+                    {
+                        Console.WriteLine("Você escolheu uma opção inválida");
+                        if (true)
+                        {
+                            Console.WriteLine();
+                            Console.WriteLine("COMPUTADOR GANHOU");
+                        }
+                    }
                     else if (escolha - computador == -2 || escolha - computador == 1)
                     {
+
                         Console.WriteLine();
                         Console.WriteLine("*** VOCÊ VENCEU !!! ***");
                     }
@@ -90,10 +95,11 @@ namespace Jokenpo
                 Console.WriteLine("Jogar novamente? SIM OU NAO?");
                 jogar = Convert.ToString(Console.ReadLine());
                 
-                if(jogar == "NAO")
+                if(jogar == "NAO" || jogar == "n" || jogar == "nao")
                 {
                     Console.WriteLine("Até a próxima");
                 }
+
             
             }
         }
