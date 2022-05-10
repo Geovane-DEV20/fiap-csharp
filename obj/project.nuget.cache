@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E3FVY5j/lSfiJ3R7qOvT/QZEQk2QkglKe/089+EDMxx6285gsVIA2ee36rcBlGTAFhcvbTzhLvTjy5T/vqGREg==",
+  "dgSpecHash": "MOQIM5wk7wG1nO2tmBdJ58tt6F44MBRYo0SWCycdYI0Wq+vFhYEWFlw5of44RkL2zIJob6KInwdsgwc73qk3kg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Geovane\\Documents\\Cursos\\SHIFT FIAP\\Lógica de programação\\02.05\\Academia\\Jokenpo\\Jokenpo.csproj",
+  "projectFilePath": "C:\\FIAP-CSHARP\\Logica_CSHARP\\Jokenpo\\Jokenpo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Geovane\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
   ],

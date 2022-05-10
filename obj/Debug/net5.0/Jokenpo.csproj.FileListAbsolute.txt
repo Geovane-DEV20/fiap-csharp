@@ -14,3 +14,19 @@ C:\Users\Geovane\Documents\Cursos\SHIFT FIAP\Lógica de programação\02.05\Acad
 C:\Users\Geovane\Documents\Cursos\SHIFT FIAP\Lógica de programação\02.05\Academia\Jokenpo\obj\Debug\net5.0\ref\Jokenpo.dll
 C:\Users\Geovane\Documents\Cursos\SHIFT FIAP\Lógica de programação\02.05\Academia\Jokenpo\obj\Debug\net5.0\Jokenpo.pdb
 C:\Users\Geovane\Documents\Cursos\SHIFT FIAP\Lógica de programação\02.05\Academia\Jokenpo\obj\Debug\net5.0\Jokenpo.genruntimeconfig.cache
+C:\FIAP-CSHARP\Logica_CSHARP\Jokenpo\bin\Debug\net5.0\Jokenpo.exe
+C:\FIAP-CSHARP\Logica_CSHARP\Jokenpo\bin\Debug\net5.0\Jokenpo.deps.json
+C:\FIAP-CSHARP\Logica_CSHARP\Jokenpo\bin\Debug\net5.0\Jokenpo.runtimeconfig.json
+C:\FIAP-CSHARP\Logica_CSHARP\Jokenpo\bin\Debug\net5.0\Jokenpo.runtimeconfig.dev.json
+C:\FIAP-CSHARP\Logica_CSHARP\Jokenpo\bin\Debug\net5.0\Jokenpo.dll
+C:\FIAP-CSHARP\Logica_CSHARP\Jokenpo\bin\Debug\net5.0\ref\Jokenpo.dll
+C:\FIAP-CSHARP\Logica_CSHARP\Jokenpo\bin\Debug\net5.0\Jokenpo.pdb
+C:\FIAP-CSHARP\Logica_CSHARP\Jokenpo\obj\Debug\net5.0\Jokenpo.csproj.AssemblyReference.cache
+C:\FIAP-CSHARP\Logica_CSHARP\Jokenpo\obj\Debug\net5.0\Jokenpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIAP-CSHARP\Logica_CSHARP\Jokenpo\obj\Debug\net5.0\Jokenpo.AssemblyInfoInputs.cache
+C:\FIAP-CSHARP\Logica_CSHARP\Jokenpo\obj\Debug\net5.0\Jokenpo.AssemblyInfo.cs
+C:\FIAP-CSHARP\Logica_CSHARP\Jokenpo\obj\Debug\net5.0\Jokenpo.csproj.CoreCompileInputs.cache
+C:\FIAP-CSHARP\Logica_CSHARP\Jokenpo\obj\Debug\net5.0\Jokenpo.dll
+C:\FIAP-CSHARP\Logica_CSHARP\Jokenpo\obj\Debug\net5.0\ref\Jokenpo.dll
+C:\FIAP-CSHARP\Logica_CSHARP\Jokenpo\obj\Debug\net5.0\Jokenpo.pdb
+C:\FIAP-CSHARP\Logica_CSHARP\Jokenpo\obj\Debug\net5.0\Jokenpo.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Geovane\\Documents\\Cursos\\SHIFT FIAP\\Lógica de programação\\02.05\\Academia\\Jokenpo\\Jokenpo.csproj": {}
+    "C:\\FIAP-CSHARP\\Logica_CSHARP\\Jokenpo\\Jokenpo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Geovane\\Documents\\Cursos\\SHIFT FIAP\\Lógica de programação\\02.05\\Academia\\Jokenpo\\Jokenpo.csproj": {
+    "C:\\FIAP-CSHARP\\Logica_CSHARP\\Jokenpo\\Jokenpo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Geovane\\Documents\\Cursos\\SHIFT FIAP\\Lógica de programação\\02.05\\Academia\\Jokenpo\\Jokenpo.csproj",
+        "projectUniqueName": "C:\\FIAP-CSHARP\\Logica_CSHARP\\Jokenpo\\Jokenpo.csproj",
         "projectName": "Jokenpo",
-        "projectPath": "C:\\Users\\Geovane\\Documents\\Cursos\\SHIFT FIAP\\Lógica de programação\\02.05\\Academia\\Jokenpo\\Jokenpo.csproj",
+        "projectPath": "C:\\FIAP-CSHARP\\Logica_CSHARP\\Jokenpo\\Jokenpo.csproj",
         "packagesPath": "C:\\Users\\Geovane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Geovane\\Documents\\Cursos\\SHIFT FIAP\\Lógica de programação\\02.05\\Academia\\Jokenpo\\obj\\",
+        "outputPath": "C:\\FIAP-CSHARP\\Logica_CSHARP\\Jokenpo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
